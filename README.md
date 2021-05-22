@@ -2,7 +2,7 @@ import java.lang.reflect.*;
   
 public class Jala {  
 	public static void main(String[] args) {
-		String s = "abcd";
+		String s = "Sai";
 
 		detail(s);
 		show(null);
